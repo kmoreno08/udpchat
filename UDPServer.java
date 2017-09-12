@@ -5,6 +5,9 @@
 *	Returns an upper case version of the line to the client
 *
 *	@author: Michael Fahy
+*	ID:	14508
+*	Email:	fahy@chapman.edu
+*	Date:	9/12/2017
 @	version: 2.0
 */
 
