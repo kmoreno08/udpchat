@@ -5,6 +5,9 @@
 *	Receives a response from the server and displays it.
 *
 *	@author: Michael Fahy
+*	ID:	14508
+*	Email:	fahy@chapman.edu
+*	Date:	9/12/2017
 @	version: 2.1
 */
 
